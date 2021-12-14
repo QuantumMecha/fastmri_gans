@@ -1,0 +1,15 @@
+imageio
+scipy
+six
+numpy
+einops
+pillow
+python-dateutil==2.7.3
+torch==1.7.1
+torchvision==0.8.2
+tensorboard
+tensorflow==2.5.0
+tqdm==4.29.1
+opencv-python
+matplotlib
+scikit-image
